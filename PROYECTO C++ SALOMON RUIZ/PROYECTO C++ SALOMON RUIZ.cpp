@@ -992,6 +992,7 @@ void servicio_interm() {
 			break;
 		}
 		case(2): {
+
 			int valor = 1568500;
 			int depo = 0;
 			cout << "Total a pagar:" << valor << endl;
